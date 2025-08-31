@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ManageBooking.ui</file>
+        <file>HomePage.ui</file>
+        <file>AddSport.ui</file>
+    </qresource>
+</RCC>
