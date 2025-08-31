@@ -1,18 +1,10 @@
 # ⚽ Stadium Manager – Dự án OOP (Qt) — Bản phát hành Windows .exe
 
 ## 👥 Thành viên nhóm
-- **Đào Minh Khoa** — 24127422  
-- **Trần Lưu Gia Bảo** — 24127018  
-- **Nguyễn Lê Thanh An** — 24127269  
-- **Nguyễn Khánh Toàn** — 24127252  
-- **Nguyễn Tiến Cường** — 24127337  
-
-## 👥 Thành viên nhóm
-
-- 🧑‍💻 **Đào Minh Khoa** — 24127422 ![Leader](https://img.shields.io/badge/Role-Leader-blue)
+- 🧑‍💻 **Nguyễn Khánh Toàn** — 24127252 ![Team Lead](https://img.shields.io/badge/Role-Leader-blue)
+- 🧑‍💻 **Đào Minh Khoa** — 24127422  ![Member](https://img.shields.io/badge/Role-Member-green)
 - 🧑‍💻 **Trần Lưu Gia Bảo** — 24127018 ![Member](https://img.shields.io/badge/Role-Member-green)
 - 🧑‍💻 **Nguyễn Lê Thanh An** — 24127269 ![Member](https://img.shields.io/badge/Role-Member-green)
-- 🧑‍💻 **Nguyễn Khánh Toàn** — 24127252 ![Member](https://img.shields.io/badge/Role-Member-green)
 - 🧑‍💻 **Nguyễn Tiến Cường** — 24127337 ![Member](https://img.shields.io/badge/Role-Member-green)
 
 ---
