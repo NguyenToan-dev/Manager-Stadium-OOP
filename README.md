@@ -121,9 +121,9 @@ YOUR_OLD_TRAFFORD_AT_HOME/
 
 ---
 
-## Cách build & chạy
-- Build dự án ở chế độ **Release**, hệ thống sẽ sinh ra file `.exe`.  
-- Người dùng chỉ cần **mở file `.exe`** là sử dụng được ứng dụng.  
+## 🛠️ Cách build & chạy
+- Tiến hành **Build Project** ở chế độ **Release**, hệ thống sẽ sinh ra file thực thi `.exe`.  
+- Người dùng chỉ cần chạy file `.exe` trong thư mục **build** để khởi động ứng dụng.  
 
 ---
 
@@ -190,12 +190,11 @@ YOUR_OLD_TRAFFORD_AT_HOME/
 
 ---
 
-## Định hướng phát triển
-- Lưu trữ dữ liệu bằng **SQLite/MySQL** thay vì file.  
-- Hỗ trợ đa ngôn ngữ (Qt Linguist).  
-- Tích hợp **QR Code / Thanh toán online**.  
-- CI/CD: build tự động và phát hành `.exe/.zip`.  
-
+## 🚀 Định hướng phát triển
+- 🗄️ Chuyển đổi từ lưu trữ file sang **Database** (SQLite/MySQL/PostgreSQL) để đảm bảo tính ổn định và khả năng mở rộng.  
+- 🌐 Hỗ trợ **Remote Database Access** thông qua kết nối LAN/Wi-Fi, cho phép nhiều client truy cập và thao tác đồng thời.  
+- 🌍 Tích hợp **Multi-language Support** bằng Qt Linguist.  
+- 💳 Bổ sung tính năng **QR Code** và **Online Payment** để nâng cao trải nghiệm người dùng.  
 ---
 
 ## Giấy phép & Liên hệ
