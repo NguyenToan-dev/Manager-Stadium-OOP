@@ -45,7 +45,7 @@
 - **Qt 6 (Widgets)** – xây dựng giao diện người dùng. 🎨🖼️  
 - **libsodium** – mã hóa mật khẩu. 🔑🔐  
 - **Xuất dữ liệu** – hỗ trợ định dạng **CSV / Excel / Word**. 📁📊  
-- **Build tool** – có thể dùng **CMake** hoặc **qmake** (nên chọn 1 cách cho nhất quán). 🔧🛠️  
+- **Build tool** – có thể dùng **CMake** hoặc **qmake** 🔧🛠️  
 
 ---
 
