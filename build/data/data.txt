@@ -1,0 +1,20 @@
+Bóng đá-Old Trafford-01/08/2025-08:00-09:00-Cristiano Ronaldo-0900000001-999999
+Bóng rổ-Sân 1-01/08/2025-10:00-11:00-Lionel Messi-0900000002-125000
+Bóng chuyền-Sân 2-01/08/2025-12:00-13:00-Neymar Jr-0900000003-100000
+Bóng đá-Santiago Bernabeu-01/08/2025-14:00-15:00-Kylian Mbappé-0900000004-150000
+Bóng rổ-Sân 2-01/08/2025-16:00-17:00-Robert Lewandowski-0900000005-125000
+Bóng chuyền-Sân 3-01/08/2025-18:00-19:00-Erling Haaland-0900000006-100000
+Bóng đá-Stamford Bridge-01/08/2025-20:00-21:00-Kevin De Bruyne-0900000007-150000
+Bóng rổ-Sân 3-02/08/2025-08:30-09:30-Harry Kane-0900000008-125000
+Bóng rổ-Sân 4-03/08/2025-13:00-14:00-Riyad Mahrez-0900000017-125000
+Bóng đá-Camp Nou-01/07/2025-08:00-09:00-Lionel Messi-0900000002-50000
+Bóng rổ-Sân 1-02/07/2025-09:00-10:00-Lionel Messi-0900000002-125000
+Bóng chuyền-Sân 4-03/07/2025-10:00-11:00-Lionel Messi-0900000002-100000
+Bóng đá-Allianz Arena-04/07/2025-11:00-12:00-Lionel Messi-0900000002-150000
+Bóng rổ-Sân 2-05/07/2025-12:00-13:00-Lionel Messi-0900000002-125000
+Bóng đá-Old Trafford-01/07/2025-09:00-10:00-Cristiano Ronaldo-0900000001-999999
+Bóng rổ-Sân 3-02/07/2025-10:00-11:00-Cristiano Ronaldo-0900000001-125000
+Bóng chuyền-HCMUS-03/07/2025-11:00-12:00-Cristiano Ronaldo-0900000001-10000
+Bóng đá-Santiago Bernabeu-04/07/2025-12:00-13:00-Cristiano Ronaldo-0900000001-150000
+Bóng rổ-Sân 4-05/07/2025-13:00-14:00-Cristiano Ronaldo-0900000001-125000
+Bóng đá-Stamford Bridge-31/08/2025-08:00-09:00-Cristiano Ronaldo-0900000001-150000
